@@ -1,0 +1,37 @@
+[
+    {
+        "title": "TO-DO LIST",
+        "status": "Completed",
+        "time_added": "2023-10-13 23:14:55",
+        "additional_info": "The deadline at 25th ",
+        "completed": true
+    },
+    {
+        "title": "CALCULATOR",
+        "status": "Completed",
+        "time_added": "2023-10-13 23:15:05",
+        "additional_info": "Codsoft ",
+        "completed": true
+    },
+    {
+        "title": "PASSWORD GENERATOR",
+        "status": "Completed",
+        "time_added": "2023-10-13 23:15:17",
+        "additional_info": "",
+        "completed": true
+    },
+    {
+        "title": "Rock-Paper-Scissors Game",
+        "status": "Completed",
+        "time_added": "2023-10-13 23:15:29",
+        "additional_info": "",
+        "completed": true
+    },
+    {
+        "title": "Contact Book",
+        "status": "Completed",
+        "time_added": "2023-10-13 23:15:36",
+        "additional_info": "",
+        "completed": true
+    }
+]
